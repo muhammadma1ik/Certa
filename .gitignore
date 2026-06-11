@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
