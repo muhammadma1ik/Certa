@@ -174,14 +174,3 @@ Every workflow run creates a local trace object with:
 - verifier decision
 
 When `save_trace=True`, traces are written under `data/traces/`. That directory is ignored by Git to avoid committing generated run logs.
-
-## Submission Notes
-
-Before publishing the GitHub repository:
-
-- Confirm `.env` is not committed.
-- Run `python -m pytest -q`.
-- Run `python -m app.tools.evaluation_harness`.
-- Keep architecture diagram and demo video outside this README or add them as final submission artifacts.
-- Mention that Foundry IQ is the required Microsoft IQ layer used in the demo.
-- Show the live Foundry path first in the video. Mention deterministic preview only as a reliability fallback, not as the primary submission path.
