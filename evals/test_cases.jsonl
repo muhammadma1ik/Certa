@@ -1,0 +1,3 @@
+{"case_id":"learner-high-risk-loopback","learner_id":"L-1001","team":"TEAM-A","expected_readiness_status":"Needs More Preparation","expected_capacity_risk":"Medium"}
+{"case_id":"learner-ready-high-workload","learner_id":"L-1004","team":"TEAM-B","expected_readiness_status":"Ready","expected_capacity_risk":"High"}
+{"case_id":"learner-security-track","learner_id":"L-1005","team":"TEAM-B","expected_readiness_status":"Ready","expected_capacity_risk":"Low"}

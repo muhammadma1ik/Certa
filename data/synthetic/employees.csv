@@ -1,0 +1,11 @@
+employee_id,learner_id,team,role,target_certification,experience_level
+EMP-001,L-1001,TEAM-A,Cloud Engineer,AZ-204,Junior
+EMP-002,L-1002,TEAM-A,Cloud Engineer,AZ-204,Mid
+EMP-003,L-1003,TEAM-A,DevOps Engineer,AZ-400,Junior
+EMP-004,L-1004,TEAM-B,DevOps Engineer,AZ-400,Mid
+EMP-005,L-1005,TEAM-B,Security Analyst,SC-900,Junior
+EMP-006,L-1006,TEAM-B,Security Analyst,SC-900,Mid
+EMP-007,L-1007,TEAM-C,Data Engineer,DP-203,Junior
+EMP-008,L-1008,TEAM-C,Data Engineer,DP-203,Mid
+EMP-009,L-1009,TEAM-C,Cloud Engineer,AZ-204,Senior
+EMP-010,L-1010,TEAM-A,Security Analyst,SC-900,Junior

@@ -1,0 +1,72 @@
+{
+  "certifications": [
+    {
+      "id": "AZ-204",
+      "name": "Azure Developer Associate",
+      "primary_roles": ["Cloud Engineer", "Backend Developer"],
+      "skills": [
+        "Azure Functions",
+        "API Development",
+        "Azure Storage",
+        "Authentication and Authorization",
+        "Monitoring and Troubleshooting"
+      ],
+      "recommended_hours": 24,
+      "readiness_threshold": 75,
+      "difficulty": "Intermediate",
+      "prerequisites": ["Basic Python", "Cloud fundamentals", "REST APIs"],
+      "next_step": "AZ-305"
+    },
+    {
+      "id": "AZ-400",
+      "name": "DevOps Engineer Expert",
+      "primary_roles": ["DevOps Engineer", "Platform Engineer"],
+      "skills": [
+        "CI/CD",
+        "GitHub Actions",
+        "Infrastructure as Code",
+        "Monitoring",
+        "Release Strategy"
+      ],
+      "recommended_hours": 30,
+      "readiness_threshold": 78,
+      "difficulty": "Advanced",
+      "prerequisites": ["Git", "Cloud fundamentals", "Basic scripting"],
+      "next_step": "GitHub Advanced Security learning path"
+    },
+    {
+      "id": "SC-900",
+      "name": "Security, Compliance, and Identity Fundamentals",
+      "primary_roles": ["Security Analyst", "GRC Analyst", "IT Support"],
+      "skills": [
+        "Security Concepts",
+        "Identity and Access Management",
+        "Microsoft Entra ID",
+        "Compliance Concepts",
+        "Defender Basics"
+      ],
+      "recommended_hours": 18,
+      "readiness_threshold": 72,
+      "difficulty": "Fundamental",
+      "prerequisites": ["Basic IT knowledge"],
+      "next_step": "SC-200"
+    },
+    {
+      "id": "DP-203",
+      "name": "Azure Data Engineer Associate",
+      "primary_roles": ["Data Engineer", "Analytics Engineer"],
+      "skills": [
+        "Data Storage",
+        "Data Processing",
+        "Data Security",
+        "Monitoring",
+        "Data Pipelines"
+      ],
+      "recommended_hours": 28,
+      "readiness_threshold": 76,
+      "difficulty": "Intermediate",
+      "prerequisites": ["SQL basics", "Cloud fundamentals", "Data concepts"],
+      "next_step": "Fabric analytics learning path"
+    }
+  ]
+}

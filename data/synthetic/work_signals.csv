@@ -1,0 +1,11 @@
+employee_id,meeting_hours_per_week,focus_hours_per_week,preferred_learning_slot,workload_level,missed_learning_sessions_last_14_days
+EMP-001,22,10,Morning,High,3
+EMP-002,15,18,Afternoon,Medium,1
+EMP-003,18,12,Morning,Medium,2
+EMP-004,25,8,Evening,High,4
+EMP-005,10,20,Afternoon,Low,0
+EMP-006,14,16,Morning,Medium,1
+EMP-007,21,11,Evening,High,3
+EMP-008,12,19,Afternoon,Low,0
+EMP-009,16,15,Morning,Medium,1
+EMP-010,24,9,Evening,High,5

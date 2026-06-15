@@ -1,0 +1,18 @@
+{
+  "name": "certa-local-workflow-smoke",
+  "description": "Deterministic preview smoke evaluation for the Certa multi-agent workflow.",
+  "mode": "deterministic_preview",
+  "checks": [
+    "readiness_status",
+    "capacity_risk",
+    "verifier_parseable",
+    "agent_event_count"
+  ],
+  "future_foundry_evaluators": [
+    "Task Completion",
+    "Task Adherence",
+    "Intent Resolution",
+    "Groundedness",
+    "Relevance"
+  ]
+}

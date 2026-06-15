@@ -1,0 +1,8 @@
+team,certification,total_learners,ready_count,almost_ready_count,not_ready_count,average_practice_score,average_hours_studied,capacity_risk
+TEAM-A,AZ-204,2,0,1,1,73,18,Medium
+TEAM-A,AZ-400,1,0,0,1,62,12,Medium
+TEAM-A,SC-900,1,0,0,1,58,8,High
+TEAM-B,AZ-400,1,1,0,0,82,28,High
+TEAM-B,SC-900,2,1,1,0,80,17.5,Low
+TEAM-C,DP-203,2,1,0,1,75,20.5,Medium
+TEAM-C,AZ-204,1,1,0,0,88,26,Medium

@@ -1,0 +1,11 @@
+learner_id,certification,practice_score_avg,hours_studied,last_assessment_score,weakest_skill,exam_outcome_simulated
+L-1001,AZ-204,67,14,64,Azure Functions,Not Ready
+L-1002,AZ-204,79,22,77,Monitoring and Troubleshooting,Almost Ready
+L-1003,AZ-400,62,12,60,Infrastructure as Code,Not Ready
+L-1004,AZ-400,82,28,80,Release Strategy,Ready
+L-1005,SC-900,74,15,73,Microsoft Entra ID,Almost Ready
+L-1006,SC-900,86,20,84,Compliance Concepts,Ready
+L-1007,DP-203,69,16,66,Data Pipelines,Not Ready
+L-1008,DP-203,81,25,79,Monitoring,Ready
+L-1009,AZ-204,88,26,85,Authentication and Authorization,Ready
+L-1010,SC-900,58,8,55,Identity and Access Management,Not Ready

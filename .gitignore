@@ -10,6 +10,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.pytest_cache/
 
 # Mac files
 .DS_Store
@@ -22,6 +23,7 @@ __pycache__/
 
 # Logs
 *.log
+data/traces/
 
 # Temporary files
 tmp/
